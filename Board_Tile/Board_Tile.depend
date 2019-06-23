@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1554007087 source:e:\documents\school\uofl 001212695\term 2 - spring 2019\3620 - data structures and algorithms\project\totc3620\board_tile\main.cpp
+	<iostream>
+	"Board_Tile.h"
+	"Sliding_Solver.h"
+
+1554371220 olver.h"
+
+1554006640 e:\documents\school\uofl 001212695\term 2 - spring 2019\3620 - data structures and algorithms\project\totc3620\board_tile\board_tile.h
+	<string>
+	<list>
+	<stdlib.h>
+
+1554370732 
+
+1554010157 source:e:\documents\school\uofl 001212695\term 2 - spring 2019\3620 - data structures and algorithms\project\totc3620\board_tile\board_tile.cpp
+	"Board_Tile.h"
+
+1554371142 e.h"
+
+1553997497 e:\documents\school\uofl 001212695\term 2 - spring 2019\3620 - data structures and algorithms\project\totc3620\board_tile\sliding_solver.h
+	<bits/stdc++.h>
+	"Board_Tile.h"
+	<string>
+	<vector>
+
+1554006959 source:e:\documents\school\uofl 001212695\term 2 - spring 2019\3620 - data structures and algorithms\project\totc3620\board_tile\sliding_solver.cpp
+
+1554482778 source:/home/totc3710/Desktop/totc3620/Board_Tile/main.cpp
+	<iostream>
+	"Board_Tile.h"
+	"Sliding_Solver.h"
+	<iostream>
+	"Board_Tile.h"
+	"Sliding_Solver.h"
+
+1554484483 /home/totc3710/Desktop/totc3620/Board_Tile/Board_Tile.h
+	<string>
+	<list>
+	<stdlib.h>
+	<string>
+	<list>
+	<stdlib.h>
+
+1554421520 /home/totc3710/Desktop/totc3620/Board_Tile/Sliding_Solver.h
+	<bits/stdc++.h>
+	"Board_Tile.h"
+	<vector>
+	<bits/stdc++.h>
+	"Board_Tile.h"
+	<vector>
+
+1554485332 source:/home/totc3710/Desktop/totc3620/Board_Tile/Sliding_Solver.cpp
+	"Sliding_Solver.h"
+	"Sliding_Solver.h"
+
+1554422378 source:/home/totc3710/Desktop/totc3620/Board_Tile/Board_Tile.cpp
+	"Board_Tile.h"
+	"Board_Tile.h"
+
+1561319221 source:c:\users\christophers\desktop\totc3620\board_tile\board_tile.cpp
+	"Board_Tile.h"
+
+1554509682 c:\users\christophers\desktop\totc3620\board_tile\board_tile.h
+	<string>
+	<list>
+	<stdlib.h>
+
+1561318048 source:c:\users\christophers\desktop\totc3620\board_tile\main.cpp
+	<iostream>
+	"Board_Tile.h"
+	"Sliding_Solver.h"
+
+1561083624 c:\users\christophers\desktop\totc3620\board_tile\sliding_solver.h
+	<bits/stdc++.h>
+	"Board_Tile.h"
+	<vector>
+
+1561319314 source:c:\users\christophers\desktop\totc3620\board_tile\sliding_solver.cpp
+	"Sliding_Solver.h"
+
+1554371142 source:f:\totc3620\board_tile\board_tile.cpp
+	"Board_Tile.h"
+
+1554370998 f:\totc3620\board_tile\board_tile.h
+	<string>
+	<list>
+	<stdlib.h>
+
+1554371242 source:f:\totc3620\board_tile\main.cpp
+	<iostream>
+	"Board_Tile.h"
+	"Sliding_Solver.h"
+
+1554370732 f:\totc3620\board_tile\sliding_solver.h
+	<bits/stdc++.h>
+	"Board_Tile.h"
+	<vector>
+
+1554371220 source:f:\totc3620\board_tile\sliding_solver.cpp
+	"Sliding_Solver.h"
+
