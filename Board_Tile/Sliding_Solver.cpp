@@ -20,11 +20,11 @@ void Sliding_Solver::Solve_Puzzle()
         Board_Tile current = tileQueue.top();
         tileQueue.pop();
 
-
+/** Advice courtesey of Stephen Graham June 2019 */
 /* start Debug code to watch the priority queue a bit. smg /
         // look at what happens to the MD and the size of your priority queue...
 //        std::cout << "\n" << current.getConfig() << " MD=" << current.Manhattan_Distance() << " numMoves=" << current.numMoves() << " pqSize=" << tileQueue.size(); //smg
-/* end Debug code to watch the priority queue a bit. smg */
+/ end Debug code to watch the priority queue a bit. smg */
 
         // check the current board to see if we are done.
         if (current.Manhattan_Distance() == 0) {
